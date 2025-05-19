@@ -1,1 +1,2 @@
-proyecto_ab_amazon/
+.venv/
+__pycache__/
